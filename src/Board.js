@@ -44,7 +44,7 @@ function Board() {
   }
 
   return (
-    <Container maxWidth="md" style={{ marginTop: "50px" }}>
+    <Container maxWidth="xs" style={{ marginTop: "50px" }}>
       <Typography variant="h4" gutterBottom>
         {status}
       </Typography>
